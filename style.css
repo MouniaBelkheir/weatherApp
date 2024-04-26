@@ -13,22 +13,23 @@ body {
 	);
 }
 .card {
-  width: 90%;
-  max-width: 470px;
-  background: linear-gradient(135deg, rgb(255, 255, 255), rgb(255, 255, 255));
-  color: #fff;
-  margin: 100px auto 0;
-  border-radius: 20px;
-  padding: 40px 35px;
-  text-align: center;
+	width: 90%;
+	max-width: 470px;
+	background: linear-gradient(135deg, rgb(255, 255, 255), rgb(255, 255, 255));
+	color: #fff;
+	margin: 100px auto 0;
+	border-radius: 20px;
+	padding: 40px 35px;
+	text-align: center;
 }
 .search {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
 .search input {
-  border: 0;
-  outline: 0;
-  background: #ebfffc;
+	border: 0;
+	outline: 0;
+	background: #ebfffc;
+}
